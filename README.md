@@ -1,5 +1,5 @@
 # Bienvenue cher stagiaire :man_student: !
-Ce dépôt a été créé pour que vous cloniez le projet depuis [GitHub](https://github.com/) sur votre ordinateur.
+Ce dépôt a été créé pour que vous cloniez ce dépôt distant hébergé sur [GitHub](https://github.com/) dans votre ordinateur.
 
 ## Clonez ce dépôt
 ```PS
